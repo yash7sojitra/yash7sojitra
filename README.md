@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yash Sojitra</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash7sojitra&label=Profile%20views&color=0e75b6&style=flat" alt="yash7sojitra" /> </p>
+
+<p align="left"> <a href="https://twitter.com/yash_7_sojitra" target="blank"><img src="https://img.shields.io/twitter/follow/yash_7_sojitra?logo=twitter&style=for-the-badge" alt="yash_7_sojitra" /></a> </p>
+
 - 🌱 I’m currently learning **ReactJS, Full Stack Development**
 
 - 📫 How to reach me **yash.sojitra2002@gmail.com**
