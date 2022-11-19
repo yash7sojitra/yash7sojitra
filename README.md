@@ -19,6 +19,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/yash_7_sojitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yash_7_sojitra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yash-sojitra-a86751197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-sojitra-a86751197" height="30" width="40" /></a>
+<a href="https://instagram.com/_yash_7_sojitra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yash_7_sojitra_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/_yash_7_sojitra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_yash_7_sojitra_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yash7sojitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash7sojitra" height="30" width="40" /></a>
+</p>
+
+---
 ### 📊 My Github Stats:
 <div>
 <a href="https://github.com/yash7sojitra">
