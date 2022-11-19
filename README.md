@@ -37,9 +37,11 @@ Here are some ideas to get you started:
 ### 📊 My Github Stats:
 <div>
 <a href="https://github.com/yash7sojitra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash7sojitra&show_icons=true&locale=en" alt="yash7sojitra" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash7sojitra&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=vue" />
 </a>
 <a href="https://github.com/yash7sojitra">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash7sojitra&" alt="yash7sojitra" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash7sojitra&" alt="yash7sojitra" />
 </a>
 </div>
@@ -53,6 +55,6 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash7sojitra&show_icons=true&locale=en&layout=compact" alt="yash7sojitra" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash7sojitra&show_icons=true&locale=en" alt="yash7sojitra" /></p>
+<p>&nbsp;</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash7sojitra&" alt="yash7sojitra" /></p>
+<p></p>
