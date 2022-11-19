@@ -1,4 +1,10 @@
 ### Hi there 👋 I am Yash Sojitra
+<h1 align="center">Hi 👋, I'm Yash Sojitra</h1>
+<h3 align="center">A passionate Full Stack developer</h3>
+
+- 🌱 I’m currently learning **ReactJS, Full Stack Development**
+
+- 📫 How to reach me **yash.sojitra2002@gmail.com**
 
 <!--
 **yash7sojitra/yash7sojitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
